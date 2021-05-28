@@ -5,3 +5,8 @@
   transform: translate(-50%, -50%);
   max-height: 1px;
 }
+
+.pic {
+  max-height: 200px;
+  max-width: 308px;
+}
